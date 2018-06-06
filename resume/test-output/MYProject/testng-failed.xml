@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MYProject]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.HelpResume.tasteCasehome.TasteCases">
+        <methods>
+          <include name="varifylog"/>
+          <include name="setup"/>
+          <include name="varifytitle"/>
+          <include name="loginChatPage"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- com.HelpResume.tasteCasehome.TasteCases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [MYProject] -->
